@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding:0
+}
+.bgcolor{
+    background-color: #FFEFEF;
+}
+.google{
+    font-size: 35px;
+    color: grey;
+}
+.long-establishment{
+    font-size: 16px;
+}
+.search-icon-icon{
+    border: 8px solid #FFEFEF ;
+    border-radius: 60px;
+}
+.long-established,.people-people-say, .latest{
+    font-size: 15px;
+}
+.Arrow{
+    color: #DF0505;
+    border: none;
+}
+.arrow{
+    color: #DF0505;
+   }
+.Little-story{
+    background-image: url('https://res.cloudinary.com/oluwaloni/image/upload/v1662981153/Group_205.png');
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: cover;
+    position: relative;
+}
+.the-img-laptop{
+    position: absolute;
+    width: 540.27px;
+    height: 691px;
+    top: -291px;
+    left: 59px;
+}
+.input-email{
+    background-color: #FFEFEF;
+    color:#59595999;
+    border: none;
+    font-size: 16px;
+    padding: 10px 220px 10px 20px;
+}
+.button-subscribe-now{
+    padding: 10px 290px 10px 20px;   
+}
+.text-danger{
+    font-size: 12px;
+}
+.card-second{
+    font-size: 16px;
+}
+.what-people, .latest-articles{
+font-size: 25px;
+font-weight: bold;
+}
+.our-latest-articles{
+    background-color: #FFEFEF;
+    margin-top: 30rem;
+}
+.ask-questions{
+ background-color: white; 
+ color: red; 
+}
+button{
+    border-color: red;   
+    padding: 5px; 
+    border-radius: 10px; 
+}
+.APPLY{
+    font-size: 25px;
+    font-weight: bold;
+}
+.repetition{
+    font-size: 13px;
+}
+.last-section{
+    background-color: #595959;
+    color: white;
+}
+.shadow-red{
+    box-shadow: 0 .5rem 1rem rgba(223 5 5 / 12%) !important;
+}
